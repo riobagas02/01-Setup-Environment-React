@@ -23,17 +23,17 @@ telah berhasil terinstall di perangkat Anda!
 1. 
 
 2. Bukti Screenshot
-# Instalasi Git
+#### Instalasi Git
 
-![Screenshots git](images/git.png)
+![Screenshots git](image/git.png)
 
-# Instalasi VSCode
+#### Instalasi VSCode
 
-![Screenshots vscode](images/vscode.png)
+![Screenshots vscode](image/vscode.png)
 
-# Instalasi NodeJS
+#### Instalasi NodeJS
 
-![Screenshots nodejs](images/nodejs.png)
+![Screenshots nodejs](image/nodejs.png)
 
 
 
