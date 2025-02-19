@@ -62,7 +62,7 @@ berhasil Anda lakukan!
 
 ### Jawaban Praktikum 2
 
-1. 
+1. Penjelasan
 TypeScript
 versi lebih canggih dari JavaScript yang dilengkapi dengan sistem tipe statis.
 Dengan TypeScript, kesalahan dalam kode dapat dideteksi sebelum dijalankan,
@@ -90,7 +90,7 @@ Turbopack
 Turbopack adalah bundler inkremental yang terintegrasi dengan Next.js. 
 Turbopack dapat digunakan untuk mempercepat pengembangan lokal aplikasi Next.js
 
-2.  
+2. Penjelasan
 node_modules/
 Berisi semua dependensi (library dan package) yang diinstal melalui npm atau yarn. 
 Folder ini dibuat secara otomatis setelah menjalankan perintah npm install atau yarn install.
@@ -101,6 +101,19 @@ Berisi aset statis seperti gambar, ikon, atau file HTML utama (index.html) yang 
 src/
 Berisi semua kode sumber aplikasi React, termasuk komponen, halaman, dan konfigurasi utama.
 
+3. Bukti Screenshots
+
+#### Membuat Proyek Baru
+
+![Screenshots hello](image/hello.png)
+
+#### Running Proyek Hello World
+
+![Screenshots hello world](image/prak2_1.png)
+
+#### Tampilan Browser 
+
+![Screenshots nodejs](image/prak2_2.png)
 
 # Praktikum 3
 
