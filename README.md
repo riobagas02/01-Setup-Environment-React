@@ -125,11 +125,19 @@ berhasil Anda lakukan!
 ### Jawaban Praktikum 3
 
 
+1. Bukti Screenshots
 
+#### Fungsi MyButton
 
+![Screenshots MyButton](image/prak3_1.png)
 
+#### Tambahkan Komponen Button
 
+![Screenshots Komponen Button](image/prak3_2.png)
 
+#### Tampilan Browser 
+
+![Screenshots Tampilan Browser](image/prak3_3.png)
 
 
 # Praktikum 4 
@@ -142,3 +150,19 @@ berhasil Anda lakukan!
 berhasil Anda lakukan! 
 
 ### Jawaban Praktikum 4
+
+1. Sintaks user.imageUrl digunakan untuk mengakses URL gambar
+
+2. Bukti Screenshots
+
+#### Fungsi Profile 
+
+![Screenshots Profile](image/prak4_1.png)
+
+#### Tambahkan Komponen MyProfile
+
+![Screenshots Komponen MyProfile](image/prak4_2.png)
+
+#### Tampilan Browser 
+
+![Screenshots Tampilan Browser](image/prak3_3.png)
